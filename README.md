@@ -1,2 +1,2 @@
-# PIQUE
-Parallel Identification of QTL's Using EMMAX
+# PIQ
+Parallel Identification of QTL's
